@@ -10,6 +10,7 @@ This repository contains code written as part of our major project. Some of the 
   <li> FH_FSK_final.slx: Simulink model containing Frequency hopping FSK modulation and demodulation model. Input source has bit rate of 80 bps
   <li> Read_Write_SD_Card.zip: Compressed folder of STM32 project for reading and writing to an SD card. Program written using FATFS middleware.
 </ul>
+
 ## Team members
 
 <ul>
